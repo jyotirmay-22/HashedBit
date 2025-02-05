@@ -1,0 +1,28 @@
+/* components/Confirmation.css */
+.confirmation-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .confirmation-container h1 {
+    color: #28a745;
+    margin-bottom: 30px;
+  }
+  
+  .confirmation-details {
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  .confirmation-details p {
+    font-size: 1.1rem;
+    margin: 15px 0;
+  }
